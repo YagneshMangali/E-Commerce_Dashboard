@@ -2,25 +2,26 @@
 # E-Commerce Sales Dashboard
 
 
-![image](https://github.com/user-attachments/assets/ad63a891-62ed-4ea1-bcae-29fa6885a82b)
-
 ## Overview
-Developed an interactive Tableau dashboard to provide actionable insights into e-commerce performance metrics. The project highlights category-wise sales, profit trends, order quantities, and market share distribution across regions.
+This project presents an interactive **E-Commerce Sales Dashboard** designed in Tableau to visualize key metrics like sales, profit, order quantity, and market share. It enables users to analyze performance by categories, regions, and customer acquisition trends.
 
-## Features
-- **Sales Analysis**: Visualized year-to-date (YTD) sales trends compared to the previous year (PYTD).
-- **Market Segmentation**: Included filters for customer segments and markets to enable granular analysis.
-- **Category Performance**: Highlighted best-performing and underperforming categories using dynamic bar charts.
-- **KPI Metrics**: Displayed key performance indicators (KPIs) such as total sales, profit, and order quantities.
-- **Market Share Distribution**: Represented regional sales contributions via an interactive pie chart.
-- **Customer Acquisition**: Visualized monthly customer acquisition trends across multiple markets.
+## Key Features:
+- **Sales & Profit Analysis**: Highlights YTD vs PYTD sales and profit trends across different categories and markets.
+- **Category Insights**: Visualizes sales margins, growth, and decline rates for specific product categories.
+- **Market Trends**: Tracks customer acquisition by regions on a monthly basis.
+- **Market Share Analysis**: Illustrates regional market contribution to total sales.
 
-## Tools & Technologies
-- Tableau for data visualization and dashboard creation.
-- Data preprocessing and cleansing using Excel and SQL.
+## Dashboard Preview
+![Dashboard Screenshot](https://github.com/user-attachments/assets/ad63a891-62ed-4ea1-bcae-29fa6885a82b)
 
-## How to View the Dashboard
-1. Open the Tableau Public link [View Dashboard](https://us-east-1.online.tableau.com/t/yagneshm-1b4484a4c4/views/E-CommerceDashboard/Dashboard1?:origin=card_share_link&:embed=n).
-2. Navigate through the filters to explore data insights.
+## View the Interactive Dashboard
+[Click here to view the E-Commerce Sales Dashboard](https://public.tableau.com/app/profile/yagnesh.mangali/viz/E-CommerceDashboard_17357136905270/Dashboard1?publish=yes)
 
 ---
+
+### Tools Used:
+- **Tableau Desktop**: For designing interactive visualizations and dashboards.
+- **Data**: E-Commerce dataset analyzing sales and profit trends.
+
+---
+
